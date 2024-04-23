@@ -1,0 +1,45 @@
+.common{
+    position: absolute;
+    color: white;
+    font-family: monospace;
+    font-weight: bolder;
+    }
+
+    .top{
+        position: fixed;
+      top: 0px;
+      left: 0px;
+      right: 0px;
+      font-style: italic;
+      border: 5cap black;
+      background-color: antiquewhite;
+      background-image: url(../assets/colorfulsky.png);
+      z-index: 1;
+    }
+
+    .background{
+    top: 150px;
+    left: 0px;
+    right: 0px;
+    background-color: rgba(133, 88, 151, 0.736);}
+    
+    .middle{
+    top: 100px;
+    left: 75px;
+    right: 75px;
+    color: black;
+    }
+
+    .bottom{
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        font-style: italic;
+        color: white;
+        font: white;
+        background-image: url(../assets/colorfulsky.png);#9475A7
+    }
+
+    .titles
+    font-weight: bolder;
